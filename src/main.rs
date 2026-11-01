@@ -72,6 +72,6 @@ match inspect_slot(&items, invalid_index) {
     // Ota kommentit pois nähdäksesi eksplisiittinen virhe:
     // trigger_trap();
     //
-    // Ota kommentit pois nähdäksesi "out of range" indexöinti paniikki:
+    // Ota kommentit pois nähdäksesi "out of range" indexointi paniikki:
     // let _item = &items[999];
 }
